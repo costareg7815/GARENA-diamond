@@ -56,10 +56,10 @@ When running the script, you can select the language.
 Inside the code, in this section:
 
 ```python
-pyautogui.write("12835225112")
+pyautogui.write("12????????")
 ```
 
-You must **replace** `"12835225112"` with **your Player ID** that you use in Shop2Game.
+You must **replace** `"12????????"` with **your Player ID** that you use in Shop2Game.
 
 ---
 
